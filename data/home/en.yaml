@@ -1,0 +1,21 @@
+sections: [hero, cards]
+
+hero:
+  align: center
+  eyebrow: Notes and reflections
+  title_lines:
+    - words: [{ text: Write ideas down, }]
+    - words: [{ text: let them grow. }]
+  lead: Essays on AI, learning, and life. Every article is published openly.
+  actions:
+    - { label: Read the essays, url: blog/, icon: fa-solid fa-pen-nib, style: primary }
+
+cards:
+  eyebrow: Latest writing
+  title: Start with a question
+  columns: 1
+  items:
+    - title: Essays
+      desc: Ideas in progress, and the ways they change how I think.
+      icon: fa-solid fa-lightbulb
+      url: blog/

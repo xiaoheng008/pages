@@ -1,0 +1,21 @@
+sections: [hero, cards]
+
+hero:
+  align: center
+  eyebrow: 思考记录
+  title_lines:
+    - words: [{ text: 把想法写下来， }]
+    - words: [{ text: 让它继续生长。 }]
+  lead: 关于 AI、学习与生活的思考。每篇文章都会公开发布。
+  actions:
+    - { label: 阅读文章, url: blog/, icon: fa-solid fa-pen-nib, style: primary }
+
+cards:
+  eyebrow: 最新内容
+  title: 从一个问题开始
+  columns: 1
+  items:
+    - title: 文章
+      desc: 记录正在形成的想法，以及它们如何改变我的判断。
+      icon: fa-solid fa-lightbulb
+      url: blog/
