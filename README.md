@@ -4,7 +4,7 @@
 
 ## 写一篇文章
 
-在 `content/blog/post/` 新建 Markdown 文件，例如 `my-idea.zh.md`：
+在 `content/blog/` 新建 Markdown 文件，例如 `my-idea.zh.md`：
 
 ```markdown
 ---
